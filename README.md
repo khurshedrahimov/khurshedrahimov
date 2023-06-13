@@ -32,9 +32,7 @@ With my attention to detail and love for coding, I strive to make a difference b
 
 ---
 
-## 🛠️ My favorite tools
-
-###  💻 Tech Stack:
+##  💻 Tech Stack:
 
 <p>
   </a>
