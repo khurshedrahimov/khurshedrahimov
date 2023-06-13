@@ -6,11 +6,11 @@
 ###
 
 
-<p style="text-align:center">
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=khurshedrahimov&icon=0&color=0" alt="Visit Count">
-</a>
-</p>
+<div style="text-align:center">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=khurshedrahimov&icon=0&color=0" alt="Visit Count">
+    </a>
+</div>
 
 
 
@@ -23,7 +23,7 @@ As a web developer, I have a passion for creating innovative and intuitive appli
 With my attention to detail and love for coding, I strive to make a difference by crafting products that positively impact people's lives.
 
 
-<img align="right" alt="GIF" src="https://github.com/khurshedrahimov/khurshedrahimov/blob/main/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/khurshedrahimov/khurshedrahimov/blob/main/coding2.gif" width="408" height="318" />
 
 
 ### Summary:
