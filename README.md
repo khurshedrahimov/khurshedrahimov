@@ -17,7 +17,7 @@ With my attention to detail and love for coding, I strive to make a difference b
 <img align="right" alt="GIF" src="https://github.com/khurshedrahimov/khurshedrahimov/blob/main/coding.gif" width="408" height="318" />
 
 
-### Talking about Personal Stuffs:
+### Summary:
 
 - 👨‍🎓 I'm a **Backend Web Developer**
 - ‍🎓 Experienced in Golang using Gin & GORM ORM
