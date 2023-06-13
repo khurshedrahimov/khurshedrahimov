@@ -14,13 +14,13 @@ As a web developer, I have a passion for creating innovative and intuitive appli
 With my attention to detail and love for coding, I strive to make a difference by crafting products that positively impact people's lives.
 
 
-<img align="right" alt="GIF" src="https://github.com/khurshedrahimov/khurshedrahimov/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/khurshedrahimov/khurshedrahimov/blob/main/coding.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Backend Web Developer**
-- ‍🎓 Backend web developer experienced in Golang using Gin & GORM ORM
+- ‍🎓 Experienced in Golang using Gin & GORM ORM
 - 💻 Proficient in HTML/CSS + TailwindCSS, PostgreSQL, AWS deployment, RESTful API design
 - 🚀 Skilled in Git/GitHub for source code management and CLI/Linux commands for app deployment
 - 💬 Excellent communication/collaboration skills
@@ -59,10 +59,3 @@ With my attention to detail and love for coding, I strive to make a difference b
 
 ---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
