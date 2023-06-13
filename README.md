@@ -1,8 +1,6 @@
 # Welcome to [Khurshed Rahimov's](https://github.com/khurshedrahimov) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<div style="text-align:center;">
-<a href="https://www.linkedin.com/in/khrahimov/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khurshed-rahimov" height="30" width="40" /></a>
-</div>
+
 
 ---
 ###
